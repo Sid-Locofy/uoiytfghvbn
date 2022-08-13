@@ -1,0 +1,1192 @@
+.symbolsIcon {
+  position: absolute;
+  height: 96.97%;
+  width: 99.82%;
+  top: 1.59%;
+  right: 0.18%;
+  bottom: 1.44%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.fickleflightLogoButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 174px;
+  height: 33px;
+  overflow: hidden;
+}
+.exploreDiv,
+.offersButton,
+.searchButton {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.offersButton,
+.searchButton {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 14px;
+  font-family: Roboto;
+  color: #1262af;
+  text-align: left;
+}
+.offersButton {
+  color: #424242;
+}
+.navigationMenuDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 30px;
+}
+.hamburgerMenuIcon {
+  display: none;
+}
+.hamburgerMenuIcon,
+.notificationBellIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.unsplashd1UPkiFd04AIcon {
+  border-radius: 38px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.accountSectionDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.navigationRightDiv {
+  justify-content: flex-end;
+  gap: 36px;
+}
+.navigationRightDiv,
+.topContainerDiv,
+.topHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.topContainerDiv {
+  flex: 1;
+  justify-content: space-between;
+}
+.topHeader {
+  align-self: stretch;
+  background-color: #fff;
+  height: 77px;
+  padding: 22px 80px;
+  box-sizing: border-box;
+  justify-content: center;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  background: #fff;
+  text-align: left;
+  font-size: 14px;
+  color: #424242;
+  font-family: Roboto;
+}
+.bannerBackgroundIcon,
+.bannerGradientDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.bannerGradientDiv {
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(78.78deg, #114f8b 5.2%, #2a9ad7);
+}
+.bannerBackgroundIcon {
+  top: 0.4px;
+  bottom: -0.4px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.whereAreYouOffToo {
+  align-self: stretch;
+  position: relative;
+  line-height: 67px;
+  display: inline-block;
+}
+.titleDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.departureFieldAutocomplete,
+.titleDiv {
+  align-self: stretch;
+}
+.inputGroupDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.inputsRowDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonDiv {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 146.98px;
+}
+.buttonGroupDiv,
+.searchFlightsButton {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.searchFlightsButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f99a0e;
+  border-radius: 4px;
+  width: 164px;
+  height: 56px;
+  overflow: hidden;
+  display: flex;
+  transition: 0.3s;
+}
+.button:hover,
+.searchFlightsButton:hover {
+  background-color: #dc880b;
+}
+.buttonGroupDiv {
+  padding: 5px;
+}
+.buttonGroupDiv,
+.searchFormDiv,
+.searchSectionDiv {
+  display: flex;
+  box-sizing: border-box;
+}
+.searchFormDiv {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #fff;
+  flex-direction: row;
+  padding: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.searchSectionDiv {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 96.5px);
+  right: 0;
+  left: 0;
+  flex-direction: column;
+  padding: 0 80px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.searchContainerDiv {
+  align-self: stretch;
+  position: relative;
+  height: 362px;
+}
+.searchFormSection {
+  align-self: stretch;
+  background: linear-gradient(100.3deg, #114f8b, #2a9ad7);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: Baloo Bhai;
+}
+.resultsDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 219.41px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 46.5px;
+  left: 0;
+  max-height: 100%;
+  width: 311.5px;
+}
+.resultsB,
+.resultsSummaryDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.resultsSummaryDiv {
+  width: 311.5px;
+  height: 47px;
+  font-size: 20px;
+}
+.resultsB {
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 189.03px;
+}
+.component1formcheckboxFormControlLabel {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.bookingOptionsDiv,
+.component1formcheckboxFormControlLabel1 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+}
+.bookingOptionsDiv {
+  top: 231.4px;
+  width: 221px;
+  height: 106px;
+}
+.resultsB1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 198.04px;
+}
+.flightExperienceDiv {
+  position: absolute;
+  top: 376.6px;
+  left: 0;
+  width: 310.8px;
+  height: 106px;
+}
+.resultsB2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 87.77px;
+}
+.airlinesDiv {
+  top: 561px;
+  width: 181px;
+  height: 106px;
+}
+.airlinesDiv,
+.resultsB3,
+.stopsDiv {
+  position: absolute;
+  left: 0;
+}
+.resultsB3 {
+  top: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 65.26px;
+}
+.stopsDiv {
+  top: 86.2px;
+  width: 296.62px;
+  height: 106px;
+}
+.seperatorIcon {
+  position: absolute;
+  top: 521.3px;
+  left: 0;
+  max-height: 100%;
+  width: 350.5px;
+}
+.searchFiltersDiv,
+.turkishIcon {
+  position: relative;
+  width: 350.5px;
+  height: 667px;
+}
+.turkishIcon {
+  width: 34.77px;
+  height: 46px;
+}
+.singaporeAirlinesDiv {
+  position: relative;
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.airlineSectionDiv {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.aMDiv,
+.sINDiv {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.aMDiv {
+  height: 48.08%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 51.92%;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sINDiv {
+  height: 36.54%;
+  width: 79.51%;
+  top: 63.46%;
+  right: 20.49%;
+  bottom: 0;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departureDetailsDiv {
+  position: relative;
+  width: 93px;
+  height: 52px;
+}
+.flightIcon {
+  position: absolute;
+  height: 27.46%;
+  width: 88.52%;
+  top: 0;
+  right: 5.5%;
+  bottom: 72.54%;
+  left: 5.98%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.h55MNonStop {
+  position: absolute;
+  height: 34.55%;
+  width: 100%;
+  top: 65.45%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.21px;
+  display: inline-block;
+}
+.flightDurationDiv {
+  position: relative;
+  width: 121px;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.sINDiv1 {
+  position: absolute;
+  height: 36.54%;
+  width: 81.25%;
+  top: 63.46%;
+  right: 1.1%;
+  bottom: 0;
+  left: 17.65%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+  display: inline-block;
+}
+.arrivalDetailsDiv {
+  position: relative;
+  width: 91px;
+  height: 52px;
+  text-align: right;
+}
+.flightDetailsSection {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 64%;
+  font-size: 21px;
+  color: #1262af;
+}
+.vectorIcon1 {
+  position: relative;
+  max-width: 100%;
+  height: 100px;
+}
+.s730B {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flightCardDiv,
+.priceSectionDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.priceSectionDiv {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flightCardDiv {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 25px;
+  gap: 50px;
+}
+.sINDiv2,
+.singaporeAirlinesDiv1 {
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.singaporeAirlinesDiv1 {
+  position: relative;
+  width: 140px;
+  flex-shrink: 0;
+}
+.sINDiv2 {
+  position: absolute;
+  height: 36.54%;
+  width: 79.51%;
+  top: 63.46%;
+  right: 20.49%;
+  bottom: 0;
+  left: 0;
+  font-size: 16px;
+  color: #646468;
+}
+.flightIcon1 {
+  position: absolute;
+  height: 27.46%;
+  width: 83.03%;
+  top: 0;
+  right: 8.26%;
+  bottom: 72.54%;
+  left: 8.71%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.flightDurationDiv1 {
+  position: relative;
+  width: 129px;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.sINDiv3 {
+  position: absolute;
+  height: 36.54%;
+  width: 81.25%;
+  top: 63.46%;
+  right: 1.1%;
+  bottom: 0;
+  left: 17.65%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+  display: inline-block;
+}
+.flightDetailsSection1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 64%;
+  text-align: left;
+  font-size: 21px;
+  color: #1262af;
+}
+.flightCardDiv1,
+.priceSectionDiv1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.priceSectionDiv1 {
+  width: 128px;
+  font-size: 24px;
+  color: #fba403;
+}
+.flightCardDiv1 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 25px;
+  gap: 50px;
+  text-align: center;
+}
+.japanIcon {
+  position: relative;
+  width: 34.77px;
+  height: 46px;
+  transform: scale(0.8);
+}
+.flightIcon2 {
+  position: absolute;
+  height: 27.46%;
+  width: 88.52%;
+  top: 0;
+  right: 6.33%;
+  bottom: 72.54%;
+  left: 5.15%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.americanAirlinesIcon {
+  position: relative;
+  width: 34.77px;
+  height: 46px;
+}
+.flightDetailsSection4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 64%;
+  text-align: left;
+  font-size: 21px;
+  color: #1262af;
+}
+.flightDurationDiv5 {
+  position: relative;
+  width: 129px;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #1262af;
+}
+.searchFlightsDiv {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 81.5px);
+  font-size: 18px;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 220px;
+  height: 72px;
+}
+.flightCardsDiv,
+.searchResultsDiv {
+  display: flex;
+  align-items: flex-start;
+}
+.flightCardsDiv {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 9px;
+  font-size: 16px;
+}
+.searchResultsDiv {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 50px 80px;
+  box-sizing: border-box;
+  justify-content: center;
+  font-size: 22px;
+  color: #57575d;
+}
+.newsletterSectionBackground {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  height: 530px;
+  object-fit: cover;
+}
+.formTitleB,
+.formTitleSubtext {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.formTitleSubtext {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.formTitleB {
+  font-size: 30px;
+  color: #434343;
+}
+.formHeaderDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.fillInYourDetailsToJoinT {
+  align-self: stretch;
+  position: relative;
+  line-height: 34px;
+  display: inline-block;
+}
+.formTextDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputTextField {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+}
+.formFieldsDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.buttonDiv1 {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.button,
+.unstyledButtonDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.unstyledButtonDiv {
+  padding: 8px 22px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f99a0e;
+  border-radius: 4px;
+  width: 164px;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+}
+.formDiv,
+.subscribeFormDiv {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.formDiv {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.03);
+  border: 1px solid #eaeaea;
+  position: relative;
+  padding: 28px 30px;
+  align-items: flex-start;
+  gap: 17px;
+  text-align: left;
+  color: #576074;
+}
+.subscribeFormDiv {
+  position: relative !important;
+  top: 52px;
+  left: auto !important;
+  width: 549px;
+  padding: 20px;
+  align-items: center;
+  gap: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.newsletterFormSection {
+  align-self: stretch;
+  position: relative;
+  background-color: #f3f7fb;
+  height: 529px;
+  overflow: hidden;
+}
+.logoIcon {
+  position: relative;
+  width: 174px;
+  height: 33px;
+  overflow: hidden;
+}
+.fickleFlightIsYourOneStop {
+  align-self: stretch;
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+}
+.socialIcons {
+  position: relative;
+  width: 130px;
+  height: 30px;
+}
+.fickleFlightBioDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  margin-bottom: 40px !important;
+}
+.seperatorDiv {
+  position: relative;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  width: 1px;
+  height: 157.87px;
+}
+.aboutUsDiv,
+.companyDiv1 {
+  position: absolute;
+  top: 47.76px;
+  left: 0;
+  display: inline-block;
+  width: 135.67px;
+}
+.companyDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 174.72px;
+}
+.careersDiv,
+.howWeWork,
+.newsDiv {
+  position: absolute;
+  top: 78.76px;
+  left: 0;
+  display: inline-block;
+  width: 84.28px;
+}
+.careersDiv,
+.howWeWork {
+  top: 109.76px;
+  width: 115.11px;
+}
+.howWeWork {
+  top: 140.76px;
+  width: 197.33px;
+}
+.companyDiv {
+  position: relative;
+  width: 197.33px;
+  height: 159.76px;
+}
+.accountDiv,
+.supportDiv1 {
+  position: absolute;
+  top: 47.76px;
+  left: 0;
+  display: inline-block;
+  width: 109.63px;
+}
+.supportDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 131.56px;
+}
+.accessibilityDiv,
+.fAQDiv,
+.supportCenterDiv {
+  position: absolute;
+  top: 78.76px;
+  left: 0;
+  display: inline-block;
+  width: 197.33px;
+}
+.accessibilityDiv,
+.fAQDiv {
+  top: 109.76px;
+  width: 52.99px;
+}
+.accessibilityDiv {
+  top: 140.76px;
+  width: 164.44px;
+}
+.covidAdvisoryDiv {
+  top: 47.76px;
+  width: 172.87px;
+}
+.airlineFeesDiv,
+.covidAdvisoryDiv,
+.moreDiv1,
+.tipsDiv {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.moreDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 76.65px;
+}
+.airlineFeesDiv,
+.tipsDiv {
+  top: 78.76px;
+  width: 135.36px;
+}
+.tipsDiv {
+  top: 109.76px;
+  width: 50.56px;
+}
+.moreDiv {
+  position: relative;
+  width: 197.33px;
+  height: 159.76px;
+}
+.footerLinksDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 16px;
+}
+.footer,
+.footerSectionDiv,
+.resultsPageDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  background: linear-gradient(91.74deg, #0b5ba8 25.38%, #299bd8);
+  flex-direction: row;
+  padding: 33px 84px;
+  box-sizing: border-box;
+  gap: 44px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Roboto;
+}
+.footerSectionDiv,
+.resultsPageDiv {
+  flex-direction: column;
+}
+.footerSectionDiv {
+  align-self: stretch;
+  text-align: center;
+  font-size: 18px;
+  color: #1262ae;
+}
+.resultsPageDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+  text-align: left;
+  font-size: 61px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1200px) {
+  .topHeader {
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+  .searchFiltersDiv {
+    display: none;
+  }
+  .footer,
+  .searchResultsDiv {
+    padding: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .navigationMenuDiv {
+    display: none;
+  }
+  .hamburgerMenuIcon {
+    display: flex;
+  }
+  .topHeader {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .whereAreYouOffToo {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .inputsRowDiv {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .searchFlightsButton {
+    margin-right: auto;
+  }
+  .buttonGroupDiv {
+    width: 100%;
+    text-align: left;
+  }
+  .searchFormDiv {
+    flex-direction: column;
+  }
+  .searchSectionDiv {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    width: 100%;
+    top: calc(44% - 96.5px - 0px);
+  }
+  .airlineSectionDiv {
+    flex-direction: column;
+  }
+  .flightDetailsSection,
+  .flightDetailsSection1,
+  .flightDetailsSection4 {
+    flex-direction: row;
+  }
+  .searchResultsDiv,
+  .subscribeFormDiv {
+    padding: 20px 24px;
+    box-sizing: border-box;
+  }
+  .subscribeFormDiv {
+    padding: 24px 0;
+  }
+  .fickleFlightBioDiv {
+    flex: unset;
+    align-self: stretch;
+  }
+  .seperatorDiv {
+    display: none;
+  }
+  .footerLinksDiv {
+    flex: unset;
+    align-self: stretch;
+  }
+  .footer {
+    flex-direction: column;
+    padding: 40px 24px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .navigationRightDiv {
+    display: flex;
+  }
+  .whereAreYouOffToo {
+    font-size: 31px;
+    line-height: 40px;
+  }
+  .inputGroupDiv {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .inputsRowDiv {
+    flex-direction: column;
+  }
+  .searchFlightsButton {
+    width: 100% !important;
+  }
+  .searchSectionDiv {
+    width: 100%;
+    top: calc(32% - 96.5px - 0px);
+  }
+  .searchContainerDiv {
+    height: 480px;
+  }
+  .turkishIcon {
+    transform: scale(0.8);
+  }
+  .airlineSectionDiv {
+    flex-direction: row;
+    width: 100% !important;
+    margin-left: 40px;
+  }
+  .flightDurationDiv {
+    transform: scale(0.9);
+  }
+  .flightDetailsSection {
+    width: 90%;
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    margin-right: 0 !important;
+    flex: unset;
+    align-self: stretch;
+  }
+  .vectorIcon1 {
+    display: none;
+  }
+  .flightCardDiv {
+    flex-direction: column;
+    padding: 20px 0;
+    box-sizing: border-box;
+  }
+  .flightDurationDiv1 {
+    transform: scale(0.9);
+  }
+  .flightDetailsSection1 {
+    width: 90%;
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    margin-right: 0 !important;
+    flex: unset;
+    align-self: stretch;
+  }
+  .flightCardDiv1 {
+    flex-direction: column;
+    padding: 20px 0;
+    box-sizing: border-box;
+  }
+  .flightDetailsSection4 {
+    width: 90%;
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    margin-right: 0 !important;
+    flex: unset;
+    align-self: stretch;
+  }
+  .flightDurationDiv5 {
+    transform: scale(0.9);
+  }
+  .button {
+    width: 100%;
+  }
+  .button:hover {
+    background-color: #f99a0e;
+  }
+  .subscribeFormDiv {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative !important;
+    left: auto !important;
+    width: 100%;
+  }
+  .companyDiv {
+    margin-bottom: 40px !important;
+  }
+  .footerLinksDiv {
+    flex-direction: column;
+  }
+  .footer {
+    padding: 30px 24px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 428px) {
+  .aMDiv,
+  .sINDiv {
+    font-size: 16px;
+  }
+  .departureDetailsDiv {
+    width: 80px;
+  }
+  .h55MNonStop {
+    font-size: 13px;
+  }
+  .sINDiv1 {
+    font-size: 16px;
+  }
+  .arrivalDetailsDiv {
+    width: 80px;
+  }
+  .flightDetailsSection,
+  .flightDetailsSection4 {
+    width: 90%;
+  }
+}
